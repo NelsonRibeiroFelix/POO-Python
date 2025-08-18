@@ -5,25 +5,17 @@ O objetivo é servir como material de estudo e referência para estudantes e des
 
 📌 Conceitos abordados
 
-Classes e Objetos
+-Classes e Objetos
 
-Encapsulamento
+-Encapsulamento
 
-Herança
+-Herança
 
-Polimorfismo
+-Polimorfismo
 
-Abstração
+-Abstração
 
-Interfaces
-
-📂 Estrutura do repositório
-
-src/ → Código-fonte organizado em pacotes/classes.
-
-exemplos/ → Exemplos práticos de uso dos conceitos.
-
-docs/ → Material de apoio e anotações sobre teoria.
+-Interfaces
 
 🚀 Objetivo
 
@@ -37,23 +29,8 @@ Promover manutenibilidade e extensibilidade.
 
 🛠️ Tecnologias utilizadas
 
-Linguagem: [adicione aqui, ex: Java, Python, C#, etc.]
-
-IDE: [adicione aqui, ex: IntelliJ, VSCode, Eclipse]
-
-📖 Como utilizar
-
-Clone este repositório:
-
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
-
-Acesse a pasta do projeto:
-
-cd nome-do-repositorio
-
-
-Execute os exemplos conforme a linguagem/IDE escolhida.
+Linguagem: Python
+IDE: VSCode, Pycharm.
 
 🤝 Contribuições
 
